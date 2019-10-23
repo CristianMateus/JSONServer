@@ -5,7 +5,7 @@
         { "id": 3, "title": "Pero mas lo pela Javi", "text": "UUUUUUfffff si o no?" },
         { "id": 4, "title": "Bueno y como le fue ayer", "text": "Super se me jodio el tablero pero bien se pudo arreglar" },
         { "id": 5, "title": "Alllright, let this groove", "text": "Staaaaand up AAAAAAlright, aaaaaaalright" },
-                { "id": 6, "title": "Boogey boogey down", "text": "Let this groove, its allright aaaaaaalright, let this groove" }
+        { "id": 6, "title": "Boogey boogey down", "text": "Let this groove, its allright aaaaaaalright, let this groove" }
     ],
     "comments": [
         { "id": 1, "body": "Primer Comentario", "postId": 1 },

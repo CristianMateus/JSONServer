@@ -3,7 +3,8 @@
         { "id": 1, "title": "Santiago lo Repela", "text": "Esto es un tema bastante controversial pero cierto" },
         { "id": 2, "title": "Si eso es cierto", "text": "Verdad, verdad." },
         { "id": 3, "title": "Pero mas lo pela Javi", "text": "UUUUUUfffff si o no?" },
-        { "id": 4, "title": "Bueno y como le fue ayer", "text": "Super se me jodio el tablero pero bien se pudo arreglar" }
+        { "id": 4, "title": "Bueno y como le fue ayer", "text": "Super se me jodio el tablero pero bien se pudo arreglar" },
+        { "id": 5, "title": "Alllright, let this groove", "text": "Staaaaand up AAAAAAlright, aaaaaaalright" }
     ],
     "comments": [
         { "id": 1, "body": "Primer Comentario", "postId": 1 },

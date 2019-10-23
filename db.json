@@ -5,8 +5,8 @@
         { "id": 3, "title": "Pero mas lo pela Javi", "text": "UUUUUUfffff si o no?" }
     ],
     "comments": [
-        { "id": 1, "body": "some comment", "postId": 1 },
-        { "id": 2, "body": "some comment", "postId": 1 }
+        { "id": 1, "body": "Primer Comentario", "postId": 1 },
+        { "id": 2, "body": "Segundo Comentario", "postId": 2 }
     ],
     "profile": {
         "name": "typicode"

@@ -10,5 +10,8 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "companies": [
+        { "id": 1, "name": "GreenPeace" }
+    ]
 }

@@ -1,8 +1,8 @@
 {
     "posts": [
-        { "id": 1, "title": "Post 1" },
-        { "id": 2, "title": "Post 2" },
-        { "id": 3, "title": "Post 3" }
+        { "id": 1, "title": "Santiago lo Repela", "text": "Esto es un tema bastante controversial pero cierto" },
+        { "id": 2, "title": "Si eso es cierto", "text": "Verdad, verdad." },
+        { "id": 3, "title": "Pero mas lo pela Javi", "text": "UUUUUUfffff si o no?" }
     ],
     "comments": [
         { "id": 1, "body": "some comment", "postId": 1 },
